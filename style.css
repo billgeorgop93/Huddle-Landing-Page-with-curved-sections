@@ -55,23 +55,21 @@ header img {
   cursor: pointer;
 }
 
-.hero-section {
-  padding: 0 2.5rem;
+.content {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-bottom: 2rem;
 }
 
-.hero-section h1 {
+.content h1 {
   font-family: 'Poppins', sans-serif;
   font-size: 24px;
   line-height: 2.25rem;
   margin-bottom: 1.5rem;
 }
 
-.hero-section p {
+.content p {
   margin-bottom: 3rem;
   font-size: 14px;
   line-height: 1.25rem;
@@ -141,7 +139,7 @@ header img {
   width: 100%;
 }
 
-.section-top-1-desktop {
+.section-top-desktop-1 {
   display: none;
 }
 
@@ -171,7 +169,7 @@ header img {
   width: 100%;
 }
 
-.section-bottom-1-desktop {
+.section-bottom-desktop-1 {
   display: none;
 }
 
@@ -203,7 +201,7 @@ header img {
   width: 100%;
 }
 
-.section-top-2-desktop {
+.section-top-desktop-2 {
   display: none;
 }
 
@@ -235,7 +233,7 @@ header img {
   width: 100%;
 }
 
-.section-bottom-2-desktop {
+.section-bottom-desktop-2 {
   display: none;
 }
 
@@ -363,7 +361,7 @@ input {
     display: none;
   }
 
-  .section-top-1-desktop {
+  .section-top-desktop-1 {
     display: block;
     width: 100%;
   }
@@ -372,7 +370,7 @@ input {
     display: none;
   }
 
-  .section-bottom-1-desktop {
+  .section-bottom-desktop-1 {
     display: block;
     width: 100%;
   }
@@ -381,7 +379,7 @@ input {
     display: none;
   }
 
-  .section-top-2-desktop {
+  .section-top-desktop-2 {
     display: block;
     width: 100%;
   }
@@ -390,7 +388,7 @@ input {
     display: none;
   }
 
-  .section-bottom-2-desktop {
+  .section-bottom-desktop-2 {
     display: block;
     width: 100%;
   }
@@ -420,24 +418,24 @@ input {
     width: 100%;
   }
 
-  .header-button {
+  .btn-try {
     padding: 0.5rem 2rem;
     font-size: 16px;
   }
 
-  .hero-section {
+  .content {
     padding: 0;
     margin-bottom: 0;
   }
 
-  .hero-section h1 {
+  .content h1 {
     font-weight: bold;
     font-size: 48px;
     line-height: 72px;
     margin-bottom: 1.625rem;
   }
 
-  .hero-section p {
+  .content p {
     font-size: 20px;
     line-height: 30px;
     max-width: 600px;
