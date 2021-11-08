@@ -281,6 +281,10 @@ footer {
   cursor: pointer;
 }
 
+.socials i:hover {
+  color: aqua;
+}
+
 .footer-logo {
   margin-bottom: 1rem;
   width: 200px;
@@ -673,7 +677,7 @@ input {
     width: 340px;
   }
 
-  .email {
+  .email-box {
     display: flex;
     gap: 40px;
   }
