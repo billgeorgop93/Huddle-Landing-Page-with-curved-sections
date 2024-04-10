@@ -17,4 +17,4 @@ Mobile version:
 ![](FinishedPreview-Mobile.png)
 
 
-Live: https://zer0fr0st93.github.io/Huddle-Landing-Page-with-curved-sections/
+Live: https://billgeorgop93.github.io/Huddle-Landing-Page-with-curved-sections/
